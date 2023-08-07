@@ -152,6 +152,7 @@ const AddForm = () => {
       border: "none",
       borderRadius: "4px",
       padding: "8px 12px",
+      marinRight: "10px",
       cursor: "pointer",
       marginRight: "10px",
     },
